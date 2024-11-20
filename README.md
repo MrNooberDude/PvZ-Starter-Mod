@@ -6,3 +6,4 @@ BreakfastBrainz2 - widescreen
 
 ### Plants (art, to expand on)
 Me
+Bandito - Modern Day and Egypt Zombies
