@@ -2,7 +2,7 @@
 _No description until stuff is added here._
 
 ## Credits
-BreakfastBrainz2 - widescreen
+Electr0Gunner and BULLETBOT - QoL and widescreen
 
 ### Plants
 Me
