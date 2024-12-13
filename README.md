@@ -2,10 +2,11 @@
 _No description until stuff is added here._
 
 ## Credits
-Electr0Gunner and BULLETBOT - QoL and widescreen
 
 ### Plants
 Me
+DLC mod (unknown by me atm)
 
 ### Zombies
 Bandito - Modern Day and Egypt Zombies
+DLC mod
